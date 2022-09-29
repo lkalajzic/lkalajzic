@@ -3,7 +3,7 @@
 </h1>
 
 
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning React.js and React native
 - 📫 You can reach me at lukakalajzic@gmail.com
 - 📊 I'm damn good at marketing as well
 - 🏁 That's all :)
