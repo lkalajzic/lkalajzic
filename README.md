@@ -3,9 +3,9 @@
 </h1>
 
 
-- 🌱 I’m currently learning React.js and React native
+- 🌱 I’m currently learning React
 - 📫 You can reach me at lukakalajzic@gmail.com
-- 📊 I'm damn good at marketing as well
+- 📊 I'm pretty good at marketing as well
 - 🏁 That's all :)
 
 <h3>
