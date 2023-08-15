@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning the MERN stack
 - 📫 You can reach me at lukakalajzic@gmail.com
-- 📊 I'm pretty good at marketing as well
 - 🏁 That's all :)
 
 <h3>
