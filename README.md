@@ -1,9 +1,7 @@
 <h1 align="center">
-  Hi 👋, I’m Luka
+  Hi 👋, I’m Luka, the CMO of JavaScript Mastery
 </h1>
 
-
-- 🌱 I’m currently learning the MERN stack
 - 📫 You can reach me at lukakalajzic@gmail.com
 - 🏁 That's all :)
 
