@@ -14,15 +14,6 @@
 </a>   
 &ensp;
 
-<a href="https://www.facebook.com/lukakalajzic33">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png" width="35px"/>
-</a>
-&ensp;
-
-<a href="https://www.instagram.com/luka.kalajzic/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="35px"/>
-</a>
-
 <h3>
   Languages, frameworks, and tools:
 </h3>
