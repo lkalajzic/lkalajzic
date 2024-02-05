@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I’m Luka, the CMO of JavaScript Mastery
+  Hi 👋, I’m Luka
 </h1>
 
 - 📫 You can reach me at lukakalajzic@gmail.com
